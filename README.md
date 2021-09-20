@@ -1,3 +1,2 @@
-https://hub.gke2.mybinder.org/user/datatalking-dee-arning-projects-gus7f08x/lab
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/datatalking/Deep-Learning-Projects/blob/master/Stock%20Investment%20Analysis/stock-investments-analysis.ipynb/HEAD)
 # Deep-Learning-Projects
